@@ -8,5 +8,5 @@ npm install -g pnpm
 pnpm i
 
 # run development mode
-pnpm dev
+pnpm dev-cloudflare
 ```
